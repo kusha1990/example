@@ -6,6 +6,7 @@ public class whishes4 {
 		// TODO Auto-generated method stub
           System.out.println("whishes from javaclas");
           System.out.println("whishes from child");
+          System.out.println("wishes from child branch");
 	}
 
 }
